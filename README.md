@@ -23,7 +23,7 @@ My contibutions are a mix of classwork and personal projects that I've been buil
 <h3>🚀 Github stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josedelosrioss&show_icons=true&theme=vision-friendly-dark&hide_title=true" alt="Estadísticas de GitHub" width="40%" />
+  <img src="https://readme-stats-teal-nine.vercel.app/api?username=josedelosrioss&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true" alt="Estadísticas de GitHub" width="40%" />
   <img width="5%"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedelosrioss&layout=compact&theme=vision-friendly-dark&hide_title=true" alt="Lenguajes Más Usados" width="40%" />
+  <img src="https://readme-stats-teal-nine.vercel.app/api/top-langs/?username=josedelosrioss&layout=compact&theme=vision-friendly-dark&hide_title=true" alt="Lenguajes Más Usados" width="40%" />
 </div>
